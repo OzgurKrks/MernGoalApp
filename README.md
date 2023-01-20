@@ -10,8 +10,8 @@ Rename the .envexample to .env and add your MONGO_URI
 npm install
 
 # Frontend deps
-cd frontend-
-npm install
+-cd frontend
+-npm install
 
 # Run Server
 npm run server
