@@ -1,10 +1,10 @@
-#Goalsetter MERN app
+# Goalsetter MERN app
 
-##Usage
+## Usage
 
 Rename the .envexample to .env and add your MONGO_URI
 
-##Install dependencies
+## Install dependencies
 
 # Backend deps
 npm install
